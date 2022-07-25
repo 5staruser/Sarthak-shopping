@@ -1,0 +1,33 @@
+.flex{
+  display: flex;
+}
+.itemcenter{
+  align-items: center;
+}
+.justifycontent{
+  justify-content: center;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+.bold{
+  font-weight: bolder;
+}
+.spacearound{
+  justify-content: space-around;
+}
+.spacebetween{
+  justify-content: space-between;
+}
+.mx2{
+  margin-left: 11px;
+  margin-right: 11px;
+}
+.flexwrap{
+  flex-wrap: wrap;
+}
+.pointer{
+  cursor: pointer;
+}
+  
+}
